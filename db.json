@@ -1,0 +1,36 @@
+{
+  "toDoList": [
+    {
+      "id": "1c65faf1-fdf5-4c07-adf6-da07527f8c33",
+      "task": "Market",
+      "desc": "Alışveriş listesini almayı unutma lütfen ?",
+      "addDate": "29.05.2024 12:18:37",
+      "updateDate": "29.05.2024 16:28:21",
+      "status": "completed"
+    },
+    {
+      "id": "6a73426a-b419-4f6e-bc2a-97ee522d070e",
+      "task": "React ",
+      "desc": "Varol hocamın derste yaptıkları kodları incele ?",
+      "addDate": "29.05.2024 12:44:55",
+      "updateDate": "29.05.2024 17:47:50",
+      "status": "completed"
+    },
+    {
+      "id": "d3707947-7beb-43e0-8496-70c568775997",
+      "task": "Turkcellakademi form",
+      "desc": "Yarın 13:00 a kadar formu doldurup gönder UNUTMMA!!!",
+      "addDate": "29.05.2024 16:06:00",
+      "updateDate": "29.05.2024 16:30:56",
+      "status": "completed"
+    },
+    {
+      "id": "9611468b-c2ce-4b14-a049-60f668c44ad6",
+      "task": "Medium",
+      "desc": "useEffect, useMemo, useCalback ile ilgili medium dan makale oku ",
+      "addDate": "29.05.2024 16:07:23",
+      "updateDate": "29.05.2024 17:48:00",
+      "status": "pending"
+    }
+  ]
+}
